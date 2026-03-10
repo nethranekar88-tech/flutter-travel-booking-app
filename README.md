@@ -15,15 +15,13 @@ A beautiful and intuitive travel booking application built with Flutter. TripMat
 
 | Login Screen | Home Page | Destination Details |
 |:---:|:---:|:---:|
-| [Screenshot coming soon] | [Screenshot coming soon] | [Screenshot coming soon] |
+| ![Login Screen](screenshots/1_login_screen.png) | ![Home Page](screenshots/2_home_page.png) | ![Destination Details](screenshots/3_destination_details.png) |
 
 | Booking Form | Room Selection | Confirmation |
 |:---:|:---:|:---:|
-| [Screenshot coming soon] | [Screenshot coming soon] | [Screenshot coming soon] |
+| ![Booking Form](screenshots/4_booking_form.png) | ![Room Selection](screenshots/2_home_page.png) | ![Confirmation](screenshots/5_confirmation.png) |
 
 </div>
-
-> **Note:** To add screenshots, drag and drop your app screenshots into the `screenshots/` folder and replace the placeholder links above.
 
 ---
 
