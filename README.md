@@ -211,6 +211,12 @@ Contributions are welcome! If you'd like to contribute to TripMate, please:
 - Update documentation accordingly
 - Test your changes before submitting PR
 
+## 🙏 Acknowledgments
+
+- Flutter and Dart teams for the amazing frameworks
+- Google Fonts for typography
+- All contributors and testers
+- The Flutter community for inspiration
 
 ## 📞 Support
 
@@ -220,16 +226,7 @@ Report issues on GitHub: https://github.com/nethranekar88-tech/flutter-travel-bo
 
 MIT License - Feel free to use in your projects
 
-
-## 🙏 Acknowledgments
-
-- Flutter and Dart teams for the amazing frameworks
-- Google Fonts for typography
-- All contributors and testers
-- The Flutter community for inspiration
-
 ---
-
 
 **Built with ❤️ using Flutter & Firebase**
 
