@@ -5,27 +5,8 @@ A beautiful and intuitive travel booking application built with Flutter. TripMat
 **Status:** ✅ Active Development  
 **Platform:** iOS, Android, Web, Windows, macOS, Linux
 
----
 
-## 📱 Screenshots
-
-<div align="center">
-
-### App Features Preview
-
-| Login Screen | Home Page | Destination Details |
-|:---:|:---:|:---:|
-| ![Login Screen](screenshots/1_login_screen.png) | ![Home Page](screenshots/2_home_page.png) | ![Destination Details](screenshots/3_destination_details.png) |
-
-| Booking Form | Room Selection | Confirmation |
-|:---:|:---:|:---:|
-| ![Booking Form](screenshots/4_booking_form.png) | ![Room Selection](screenshots/2_home_page.png) | ![Confirmation](screenshots/5_confirmation.png) |
-
-</div>
-
----
-
-## ✨ Features
+## 🎯 Features
 
 - ✈️ **Destination Explorer** - Browse beautiful travel destinations
 - 📋 **Travel Details** - View comprehensive information about each destination
@@ -36,7 +17,27 @@ A beautiful and intuitive travel booking application built with Flutter. TripMat
 - ✅ **Booking Confirmation** - Beautiful confirmation popup for successful bookings
 - 🔐 **User Authentication** - Secure login system
 
----
+  
+## 📱 Screenshots
+
+### Login Screen
+![Login Screen](screenshots/1_login_screen.png)
+
+### Home Page
+![Home Page](screenshots/2_home_page.png) 
+
+### Destination Details
+![Destination Details](screenshots/3_destination_details.png) 
+
+### Booking Form
+![Booking Form](screenshots/4_booking_form.png) 
+
+### Room Selection
+![Room Selection](screenshots/2_home_page.png) 
+
+### Confirmation
+![Confirmation](screenshots/5_confirmation.png) 
+
 
 ## 🛠️ Tech Stack
 
@@ -48,7 +49,6 @@ A beautiful and intuitive travel booking application built with Flutter. TripMat
 | **Google Fonts** | Beautiful typography |
 | **Carousel Slider** | Image carousel functionality |
 
----
 
 ## 📋 Prerequisites
 
@@ -65,7 +65,6 @@ flutter --version
 dart --version
 ```
 
----
 
 ## 🚀 Getting Started
 
@@ -185,39 +184,6 @@ flutter pub get
 flutter run
 ```
 
----
-
-## 📸 Adding Screenshots
-
-To add your app screenshots to this README:
-
-1. **Take Screenshots:**
-   - Run the app on an emulator
-   - Use Android Studio's built-in screenshot tool or `flutter screenshot`
-   - Or use emulator's screenshot feature
-
-2. **Create Screenshots Folder:**
-   ```bash
-   mkdir screenshots
-   ```
-
-3. **Add Screenshots:**
-   - Place your PNG/JPG files in the `screenshots/` folder
-   - Name them descriptively (e.g., `login_screen.png`)
-
-4. **Update README:**
-   - Replace the placeholder links in the Screenshots section above
-   - Use relative paths: `![Login](screenshots/login_screen.png)`
-   - Commit and push to GitHub
-
-**Example:**
-```markdown
-| Login Screen | Home Page |
-|:---:|:---:|
-| ![Login](screenshots/login_screen.png) | ![Home](screenshots/home_page.png) |
-```
-
----
 
 ## 🐛 Troubleshooting
 
@@ -228,29 +194,6 @@ To add your app screenshots to this README:
 | Android SDK issues | Check Android SDK version compatibility |
 | iOS deployment issues | Update Xcode and CocoaPods |
 
----
-
-## � License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2024 TripMate Contributors
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-```
-
----
 
 ## 👨‍💻 Contributing
 
@@ -268,25 +211,15 @@ Contributions are welcome! If you'd like to contribute to TripMate, please:
 - Update documentation accordingly
 - Test your changes before submitting PR
 
----
 
-## 🔗 Useful Links
+## 📞 Support
 
-- [Flutter Official Documentation](https://flutter.dev/)
-- [Dart Language Guide](https://dart.dev/guides)
-- [Material Design 3](https://m3.material.io/)
-- [Pub.dev - Package Repository](https://pub.dev/)
-- [Flutter Community](https://github.com/fluttercommunity)
+Report issues on GitHub: https://github.com/nethranekar88-tech/flutter-travel-booking-app/issues
 
----
+## 📄 License
 
-## 📞 Support & Contact
+MIT License - Feel free to use in your projects
 
-- **Issues:** Found a bug? [Create an issue](../../issues)
-- **Discussions:** Questions? [Start a discussion](../../discussions)
-- **Email:** your-email@example.com
-
----
 
 ## 🙏 Acknowledgments
 
@@ -297,12 +230,10 @@ Contributions are welcome! If you'd like to contribute to TripMate, please:
 
 ---
 
-<div align="center">
 
-### ⭐ If you found this helpful, please consider giving it a star!
+**Built with ❤️ using Flutter & Firebase**
 
-**Made with ❤️ by Your Name**
+*Last Updated: March 2026*
 
-[⬆ back to top](#-tripmate---travel-booking-app)
 
-</div>
+
